@@ -1,0 +1,266 @@
+{
+  "about": {
+    "about": {
+      "text": "I'm a Teacher and a Quick Learner.\n With enough preparation time, I can learn and teach anything."
+    },
+    "services": [
+      {
+        "icon": "images/icon-teaching.svg",
+        "title": "Teaching",
+        "description": "Computer Science Teacher for Grade 9 and 10 at St. Paul Steiner School. Focus on fundamentals of programming and computer science concepts."
+      },
+      {
+        "icon": "images/icon-tutoring.svg",
+        "title": "Tutoring",
+        "description": "Private tutor for A Level Computer Science, Mathematics, and Physics. Experienced in helping students achieve their academic goals."
+      },
+      {
+        "icon": "images/icon-learning.svg",
+        "title": "Learning",
+        "description": "Currently expanding knowledge in Web Development using MERN stack and exploring Artificial Intelligence & Machine Learning."
+      }
+    ],
+    "softSkills": {
+      "enabled": true,
+      "label": "Soft Skills",
+      "items": [
+      {
+        "title": "Fast Learning",
+        "icon": "icons/bolt.svg",
+        "description": "Can quickly grasp new concepts and skills. Also, I have a strong desire to learn and improve."
+      },
+      {
+        "title": "Communication",
+        "icon": "icons/comment.svg",
+        "description": "Have effectively exchanged information clearly and concisely."
+      },
+      {
+        "title": "Teamwork",
+        "icon": "icons/team.svg",
+        "description": "Have worked collaboratively with others to achieve common goals."
+      },
+      {
+        "title": "Planning and Organizing",
+        "icon": "icons/gear.svg",
+        "description": "Can efficiently plan and organize tasks and projects."
+      }
+      ]
+    },
+    "technologies": {
+      "enabled": true,
+      "label": "Technologies",
+      "items": [
+        {
+          "name": "HTML",
+          "icon": "icons/html.svg"
+        },
+        {
+          "name": "CSS",
+          "icon": "icons/css.svg"
+        },
+        {
+          "name": "JavaScript",
+          "icon": "icons/javascript.svg"
+        },
+        {
+          "name": "React",
+          "icon": "icons/react.svg"
+        },
+        {
+          "name": "Node.js",
+          "icon": "icons/nodejs.svg"
+        },
+        {
+          "name": "Express",
+          "icon": "icons/express.svg"
+        },
+        {
+          "name": "MongoDB",
+          "icon": "icons/mongodb.svg"
+        },
+        {
+          "name": "Python",
+          "icon": "icons/python.svg"
+        },
+        {
+          "name": "Unity",
+          "icon": "icons/unity.svg"
+        }
+      ]
+    }
+  },
+  "blog" : {
+    "posts": [
+      {
+        "title": "Design conferences in 2022",
+        "category": "Design",
+        "date": "2022-02-23",
+        "description": "Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.",
+        "image": "images/blog-1.jpg",
+        "url": "#"
+      },
+      {
+        "title": "Best fonts every designer",
+        "category": "Design",
+        "date": "2022-02-23",
+        "description": "Sed ut perspiciatis, nam libero tempore, cum soluta nobis est.",
+        "image": "images/blog-2.jpg",
+        "url": "#"
+      },
+      {
+        "title": "Design digest #80",
+        "category": "Design",
+        "date": "2022-02-23",
+        "description": "Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem.",
+        "image": "images/blog-3.jpg",
+        "url": "#"
+      },
+      {
+        "title": "UI interactions of the week",
+        "category": "UI Design",
+        "date": "2022-02-23",
+        "description": "Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation.",
+        "image": "images/blog-4.jpg",
+        "url": "#"
+      }
+    ]
+  },
+  "navigation": {
+    "navItems": [
+      { "id": "about", "label": "About" },
+      { "id": "resume", "label": "Resume" },
+      { "id": "portfolio", "label": "Projects" },
+      { "id": "contact", "label": "Contact" }
+    ]
+  },
+  "projects": {
+    "categories": ["All", "Machine Learning and AI", "Web Development", "Game Development"],
+    "items": [
+      {
+        "title": "A Levels Note Site",
+        "category": "web development",
+        "description": "Site to host notes and test questions for my students",
+        "image": "images/summary_notes.png",
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "url": "https://summarynotes.github.io"
+      },
+      {
+        "title": "Language Translator App",
+        "category": "machine learning and ai",
+        "description": "Nepali-English Language translator with ASR using mms and m2m100",
+        "image": "images/language_translator.png",
+        "technologies": ["Python", "MMS", "M2M100", "ASR"],
+        "url": "#"
+      },
+      {
+        "title": "SuperTask",
+        "category": "web development",
+        "description": "Simple todo app with register and login. Built using Flask and sqlite3",
+        "image": "images/super_task.png",
+        "technologies": ["Flask", "SQLite3", "Python"],
+        "url": "https://github.com/BISHALTWR/todo"
+      },
+      {
+        "title": "PewPew",
+        "category": "game development",
+        "description": "Desktop Game using HTML Canvas and Vanilla JavaScript",
+        "image": "images/pewpew.png",
+        "technologies": ["HTML Canvas", "JavaScript"],
+        "url": "https://pew-pew-nine.vercel.app"
+      }
+    ]
+  },
+  "resume": {
+    "education": {
+      "title": "Education",
+      "items": [
+        {
+            "title": "Bachelor Degree in Computer Engineering",
+            "location": "Dhapakhel, Lalitpur",
+            "institution": "Kantipur Engineering College",
+            "year": "Jun, 2021 - Present",
+            "description": "Completed B.E. Computer from Kantipur Engineering College, Tribhuvan University."
+          },
+          {
+            "title": "NEB +2 Science",
+            "location": "New Baneshwor, Kathmandu",
+            "institution": "Liverpool Int'l College",
+            "year": "Jul, 2017 - Aug, 2019",
+            "description": "Completed NEB +2 Science from Liverpool Int'l College."
+          },
+          {
+            "title": "Secondary Education Examinations (SEE)",
+            "location": "Mid Baneshwor, Kathmandu",
+            "institution": "Ratna Rajya School",
+            "year": "Jun, 2015 - Jun, 2017",
+            "description": "Completed SEE from Ratna Rajya School."
+          }
+      ]
+    },
+    "experience": {
+      "title": "Experience",
+      "items": [
+        {
+          "title": "Computer Science Teacher",
+          "location": "Bhupi Sherchan Marg, Kathmandu 44600",
+          "institution": "St. Paul Steiner School",
+          "year": "Aug, 2024 - Present",
+          "description": "Part time / Grade 9, 10"
+        },
+        {
+          "title": "Computer Science Tutor - A level",
+          "location": "Patan, Lalitpur Nepal",
+          "institution": "E2A Learning Nepal",
+          "year": "Aug, 2024 - Present",
+          "description": "Private Tutor"
+        },
+        {
+          "title": "Private Tutor",
+          "location": "Kathmandu",
+          "year": "Jan, 2018 - Present",
+          "description": "SEE, +2 Science, AS and A level. 20+ Students"
+        },
+        {
+          "title": "School Teacher",
+          "location": "Kathmandu, Nepal",
+          "institution": "Indradhanush Higher Secondary School",
+          "year": "Sep, 2019 - Feb, 2021",
+          "description": "Computer Science, Mathematics. Primary and Secondary level."
+        },
+        {
+          "title": "Database Administrator Apprenticeship",
+          "location": "Lalitpur",
+          "institution": "Code Rush",
+          "year": "Mar, 2024 - Sep, 2024",
+          "description": "Learnt DataBase Administration including topics like Relational Database, Non-Relational Database, Monitoring, Automation, Backup and Recovery, Security, Performance Tuning, Troubleshooting, and Disaster Recovery."
+        },
+        {
+          "title": "AI Fellowship",
+          "location": "Kathmandu",
+          "institution": "Fusemachine",
+          "year": "Mar, 2024 - Oct, 2024",
+          "description": "Rigorous AI training program that includes Python, Machine Learning, Deep Learning, NLP, Computer Vision, and AI Ethics."
+        },
+        {
+          "title": "Executive Member of Computer Club",
+          "location": "Dhapakhel, Lalitpur",
+          "institution": "Kantipur Engineering College",
+          "year": "2024, 2025",
+          "description": "Organized and participated in various events, workshops, and seminars."
+        }
+      ]
+    },
+    "skills": [
+      { "name": "Communication", "level": "Skillful" },
+      { "name": "Teaching", "level": "Skillful" },
+      { "name": "SQL", "level": "Skillful" },
+      { "name": "Full-Stack with Mern", "level": "Novice" },
+      { "name": "Git & Github", "level": "Skillful" },
+      { "name": "Python", "level": "Skillful" },
+      { "name": "Mathematics", "level": "Skillful" },
+      { "name": "Database Administration", "level": "Beginner" },
+      { "name": "Game Development with Unity", "level": "Beginner" },
+      { "name": "Machine Learning and AI", "level": "Novice" }
+    ]
+  }
+}
