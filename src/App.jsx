@@ -6,6 +6,7 @@ import Resume from './components/Resume'
 import Projects from './components/Projects'
 import Blog from './components/Blog'
 import Contact from './components/Contact'
+import Courses from './components/Courses'
 
 function App() {
   const [activePage, setActivePage] = useState('about')
@@ -31,6 +32,10 @@ function App() {
 
         <article className={`blog ${activePage === 'blog' ? 'active' : ''}`}>
           <Blog />
+        </article>
+
+        <article className={`courses ${activePage === 'courses' ? 'active' : ''}`}>
+          <Courses />
         </article>
 
         <article className={`contact ${activePage === 'contact' ? 'active' : ''}`}>

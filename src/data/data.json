@@ -130,6 +130,7 @@
       { "id": "about", "label": "About" },
       { "id": "resume", "label": "Resume" },
       { "id": "portfolio", "label": "Projects" },
+      { "id": "courses", "label": "Courses" },
       { "id": "contact", "label": "Contact" }
     ]
   },
@@ -261,6 +262,80 @@
       { "name": "Database Administration", "level": "Beginner" },
       { "name": "Game Development with Unity", "level": "Beginner" },
       { "name": "Machine Learning and AI", "level": "Novice" }
+    ]},
+        "courses": [
+          {
+            "title": "CS50x: Introduction to Computer Science",
+            "description": "Harvard University / edX",
+            "date": "2023-12",
+            "url": "https://certificates.cs50.io/4656efc3-a8bb-4013-a37d-073a88506d15.pdf?size=letter"
+          },
+          {
+            "title": "Algorithmic Toolbox",
+            "description": "University of California San Diego / Coursera",
+            "date": "2024-07",
+            "url": "https://coursera.org/share/aace8d29c29c31172974c33f46938f9c"
+          },
+          {
+            "title": "Machine Learning",
+            "description": "DeepLearning.AI / Coursera",
+            "date": "2024-08",
+            "url": "https://coursera.org/share/2c44294c97ca26e99d609df04995b1ca"
+          },
+        {
+          "title": "Linear Algebra from Elementary to Advanced",
+          "description": "John Hopkins University / Coursera",
+          "date": "2024-03",
+          "url": "https://coursera.org/share/919fe561493a6335d745e5ce09ade943"
+        },
+        {
+          "title": "JavaScript Algorithms and Data Structures",
+          "description": "freeCodeCamp/ 2024",
+          "date": "2024-02",
+          "url": "https://freecodecamp.org/certification/fcc991618bc-8ba2-4dc8-9f0f-0a4d7ee34139/javascript-algorithms-and-data-structures"
+        },
+        {
+          "title": "Mobile Game Development with Unity",
+          "description": "Kathmandu Metropolitan City & Sunway College",
+          "date": "2024",
+          "url": null
+        },
+        {
+          "title": "Relational Database Administrator",
+          "description": "IBM / Coursera",
+          "date": "2024-05",
+          "url": "https://coursera.org/share/6efba3913b5f5fb797db183161daa047"
+        },
+        {
+          "title": "MERN Stack Web Development",
+          "description": "Broadway Infosys",
+          "date": "2024", 
+          "url": null
+        },
+        {
+          "title": "An Intuitive Introduction to Probability",
+          "description": "University of Zurich / Coursera",
+          "date": "2024-06", 
+          "url": "https://coursera.org/share/a4bd0a3493ac3bb0e53018330ada96a3"
+        },
+        {
+          "title": "Python with Data Science",
+          "description": "Kantipur Engineering College",
+          "date": "2023-07", 
+          "url": "https://drive.google.com/file/d/1z1VPm7Q0GTiBPA9O-0xNNSgP_TpQ_3fQ/view"
+        },
+        {
+          "title": "SQL Intermediate",
+          "description": "HackerRank",
+          "date": "2024-01",
+          "url": "https://www.hackerrank.com/certificates/e57038815de9"
+        },
+        {
+          "title": "Associate Data Analyst",
+          "description": "DataCamp Certified",
+          "date": "2025-01",
+          "url": "https://www.datacamp.com/certificate/DSA0013152280195"
+        }
     ]
-  }
+
 }

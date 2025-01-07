@@ -62,37 +62,6 @@ const Contact = () => {
         </figure>
       </section>
 
-      <section className="contact-info" style={{ marginBottom: '2rem' }}>
-  <div className="contacts-list" style={{ 
-    display: 'grid',
-    gridTemplateColumns: 'repeat(2, minmax(200px, 1fr))',
-    gap: '2rem',
-    maxWidth: '600px',
-    margin: '0 auto',
-    padding: '1rem',
-    placeItems: 'center'
-  }}>
-                <div className="contact-item" style={{ flex: '0 1 auto' }}>
-                  <div className="icon-box">
-                    <IoMailOutline />
-                  </div>
-                  <div className="contact-info">
-                    <p className="contact-title">Email</p>
-                    <a href="mailto:bishaltwr@gmail.com" className="contact-link">bishaltwr@gmail.com</a>
-                  </div>
-                </div>
-            
-                <div className="contact-item" style={{ flex: '0 1 auto' }}>
-                  <div className="icon-box">
-                    <IoCallOutline />
-                  </div>
-                  <div className="contact-info">
-                    <p className="contact-title">Phone</p>
-                    <a href="tel:+9779808076305" className="contact-link" style={{ marginBottom: '1rem' }}>+977 9808076305</a>
-                  </div>
-                </div>
-              </div>
-            </section>
       <section className="contact-form">
         {/* <h3 className="h3 form-title">Contact Form</h3> */}
 
@@ -124,7 +93,7 @@ const Contact = () => {
               type="email"
               name="email"
               className="form-input"
-              placeholder="Your email address"
+              placeholder="Your email/phone number"
               required
               value={formData.email}
               onChange={handleChange}
