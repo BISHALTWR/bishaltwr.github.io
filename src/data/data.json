@@ -1,4 +1,12 @@
 {
+  "navigation": {
+    "navItems": [
+      { "id": "about", "label": "About" },
+      { "id": "resume", "label": "Resume" },
+      { "id": "courses", "label": "Courses" },
+      { "id": "contact", "label": "Contact" }
+    ]
+  },
   "about": {
     "about": {
       "text": "I'm a Teacher and a Quick Learner.\n With enough preparation time, I can learn and teach anything."
@@ -123,15 +131,6 @@
         "image": "images/blog-4.jpg",
         "url": "#"
       }
-    ]
-  },
-  "navigation": {
-    "navItems": [
-      { "id": "about", "label": "About" },
-      { "id": "resume", "label": "Resume" },
-      { "id": "portfolio", "label": "Projects" },
-      { "id": "courses", "label": "Courses" },
-      { "id": "contact", "label": "Contact" }
     ]
   },
   "projects": {

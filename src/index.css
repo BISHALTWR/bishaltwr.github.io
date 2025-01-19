@@ -1973,10 +1973,10 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
 }
 
-.skills-item:hover {
-  background-color: #726e6e; /* Slightly darker gray on hover */
-  transform: translateY(-5px); /* Lift the item slightly on hover */
-}
+/* .skills-item:hover {
+  background-color: #726e6e; 
+  transform: translateY(-5px);
+} */
 
 .skill-level {
   height: 4px; /* Match track height */
