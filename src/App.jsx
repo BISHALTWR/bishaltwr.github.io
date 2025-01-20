@@ -7,6 +7,7 @@ import Projects from './components/Projects'
 import Blog from './components/Blog'
 import Contact from './components/Contact'
 import Courses from './components/Courses'
+import Videos from './components/Videos'
 
 function App() {
   const [activePage, setActivePage] = useState('about')
@@ -36,6 +37,10 @@ function App() {
 
         <article className={`courses ${activePage === 'courses' ? 'active' : ''}`}>
           <Courses />
+        </article>
+
+        <article className={`videos ${activePage === 'videos' ? 'active' : ''}`}>
+          <Videos />
         </article>
 
         <article className={`contact ${activePage === 'contact' ? 'active' : ''}`}>

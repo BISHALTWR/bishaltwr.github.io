@@ -12,7 +12,7 @@ import { SiX } from 'react-icons/si';
 
 const userData = {
   name: "Bishal Tiwari",
-  role: "Teacher",
+  role: "~Teacher",
   avatar: "./images/bishal.png",
   contacts: [
     {

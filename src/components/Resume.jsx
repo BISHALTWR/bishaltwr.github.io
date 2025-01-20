@@ -80,21 +80,20 @@ const Resume = () => {
       )}
 
 {skills && (
-        <section className="skill">
-          <h3 className="h3 skills-title">My skills</h3>
-          <ul className="skills-list content-card">
-            {skills.map((skill, index) => (
-              <li key={index} className="skills-item">
-              <div className="title-wrapper">
-                <h5 className="h5">{skill.name}</h5>
-              </div>
-              <div className="skill-level-track"></div>
-              <div className={`skill-level ${getSkillLevelClass(skill.level)}`}></div>
-            </li>
-            ))}
-          </ul>
-        </section>
-      )}
+  <section className="skill">
+    <h3 className="h3 skills-title">My skills</h3>
+    <ul className="skills-list">
+      {skills.map((skill, index) => (
+        <li key={index} className="skills-item">
+          <div className="skill-content">
+            <h5 className="h5 skill-name">{skill.name}</h5>
+            <span className="skill-level-text">{skill.level}</span>
+          </div>
+        </li>
+      ))}
+    </ul>
+  </section>
+)}
 
       {languages && (
         <section className="skill">
