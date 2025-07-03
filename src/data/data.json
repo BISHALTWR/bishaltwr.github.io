@@ -344,6 +344,21 @@
     }
   ],
   "videos": [
-    
+    {
+      "title": "Conic section Visualization",
+      "link": "https://youtube.com/shorts/Y9y6HEpW8W4?feature=share",
+      "thumbnail": "https://img.youtube.com/vi/Y9y6HEpW8W4/hqdefault.jpg",
+      "category": "Math",
+      "level": "Shorts",
+      "description": "Visualization of how cutting cone has amazing result"
+    },
+    {
+      "title": "Proof (a+b)^2 formula",
+      "link": "https://youtube.com/shorts/djZC5Z4RW-E?feature=share",
+      "thumbnail": "https://img.youtube.com/vi/djZC5Z4RW-E/hqdefault.jpg",
+      "category": "Math",
+      "level": "Shorts",
+      "description": "Visual proof of the famous formula"
+    }
   ]
 }

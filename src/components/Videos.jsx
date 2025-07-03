@@ -54,8 +54,7 @@ const Videos = () => {
                 </figure>
                 <div className="video-content">
                   <h3 className="h3 video-title">{video.title}</h3>
-                  <p className="video-category">{video.category}</p>
-                  <p className="video-level">{video.level}</p>
+                  <p className="video-description">{video.description}</p>
                 </div>
               </a>
             </li>

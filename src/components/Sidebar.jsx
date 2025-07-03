@@ -6,10 +6,10 @@ import {
   IoLocationOutline, 
   IoChevronDown, 
   IoLogoGithub, 
-  IoLogoLinkedin 
+  IoLogoLinkedin,
+  IoLogoYoutube,
 } from 'react-icons/io5';
 import { SiX } from 'react-icons/si';
-
 const userData = {
   name: "Bishal Tiwari",
   role: "~Teacher",
@@ -40,7 +40,8 @@ const userData = {
   socials: [
     { icon: <IoLogoGithub />, url: "https://github.com/bishaltwr" },
     { icon: <IoLogoLinkedin />, url: "https://www.linkedin.com/in/bishaltwr/" },
-    { icon: <SiX />, url: "https://x.com/bishaltwr" }
+    { icon: <SiX />, url: "https://x.com/bishaltwr" },
+    { icon: <IoLogoYoutube />, url: "https://www.youtube.com/@bishaltwr" }
   ]
 };
 
