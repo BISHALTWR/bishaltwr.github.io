@@ -101,35 +101,11 @@
   "blog": {
     "posts": [
       {
-        "title": "Design conferences in 2022",
-        "category": "Design",
+        "title": "Placeholder",
+        "category": "Placeholder",
         "date": "2022-02-23",
-        "description": "Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.",
-        "image": "images/blog-1.jpg",
-        "url": "#"
-      },
-      {
-        "title": "Best fonts every designer",
-        "category": "Design",
-        "date": "2022-02-23",
-        "description": "Sed ut perspiciatis, nam libero tempore, cum soluta nobis est.",
-        "image": "images/blog-2.jpg",
-        "url": "#"
-      },
-      {
-        "title": "Design digest #80",
-        "category": "Design",
-        "date": "2022-02-23",
-        "description": "Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem.",
-        "image": "images/blog-3.jpg",
-        "url": "#"
-      },
-      {
-        "title": "UI interactions of the week",
-        "category": "UI Design",
-        "date": "2022-02-23",
-        "description": "Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation.",
-        "image": "images/blog-4.jpg",
+        "description": "",
+        "image": "placeholder.png",
         "url": "#"
       }
     ]
@@ -148,7 +124,7 @@
         "description": "Site to host notes and test questions for my students",
         "image": "images/summary_notes.png",
         "technologies": ["HTML", "CSS", "JavaScript"],
-        "url": "https://bishaltwr.com/alevel"
+        "url": "https://www.monkeyfacenotes.com"
       },
       {
         "title": "Language Translator App",
@@ -184,7 +160,7 @@
           "title": "Bachelor Degree in Computer Engineering",
           "location": "Dhapakhel, Lalitpur",
           "institution": "Kantipur Engineering College",
-          "year": "Jun, 2021 - Present",
+          "year": "2021 - 2025",
           "description": "Completed B.E. Computer from Kantipur Engineering College, Tribhuvan University."
         },
         {
