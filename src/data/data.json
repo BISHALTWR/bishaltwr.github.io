@@ -329,12 +329,20 @@
       "description": "Visualization of how cutting cone has amazing result"
     },
     {
-      "title": "Proof (a+b)^2 formula",
-      "link": "https://youtube.com/shorts/djZC5Z4RW-E?feature=share",
-      "thumbnail": "https://img.youtube.com/vi/djZC5Z4RW-E/hqdefault.jpg",
+      "title": "Desmos Art: Captain America's Shield",
+      "link": "https://www.youtube.com/shorts/9U9MTzqNz58",
+      "thumbnail": "https://img.youtube.com/vi/9U9MTzqNz58/hqdefault.jpg",
       "category": "Math",
       "level": "Shorts",
-      "description": "Visual proof of the famous formula"
+      "description": "Using desmos to create things"
+    },
+    {
+      "title": "Quartile Deviation (SEE optional mathematics)",
+      "link": "https://youtu.be/psbigTiSRrk?si=7QOqx6gHi-lpMzw1",
+      "thumbnail": "https://img.youtube.com/vi/psbigTiSRrk/hqdefault.jpg",
+      "category": "Math",
+      "level": "Online class recording",
+      "description": "Class recording of class 10 optional math Statistics."
     }
   ]
 }
