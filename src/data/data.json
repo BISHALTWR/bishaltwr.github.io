@@ -16,7 +16,7 @@
       {
         "icon": "images/icon-teaching.svg",
         "title": "Teaching",
-        "description": "Computer Science Teacher for Grade 9 and 10 at St. Paul Steiner School. Focus on fundamentals of programming and computer science concepts."
+        "description": "Computer Science Teacher for Grade 9 and 10 at Phoenix School, Sanepa. Focus on fundamentals of programming and computer science concepts."
       },
       {
         "icon": "images/icon-tutoring.svg",
@@ -26,7 +26,7 @@
       {
         "icon": "images/icon-learning.svg",
         "title": "Learning",
-        "description": "Currently expanding knowledge in Web Development using MERN stack and exploring Artificial Intelligence & Machine Learning."
+        "description": "Actively learning things."
       }
     ],
     "softSkills": {
@@ -184,23 +184,30 @@
       "items": [
         {
           "title": "Computer Science Teacher",
-          "location": "Bhupi Sherchan Marg, Kathmandu 44600",
-          "institution": "St. Paul Steiner School",
-          "year": "Aug, 2024 - Present",
-          "description": "Part time / Grade 9, 10"
+          "location": "Sanepa, Lalitpur",
+          "institution": "Phoenix School",
+          "year": "May, 2026 - Present",
+          "description": "Grade 4 - 10"
         },
         {
           "title": "Computer Science Tutor - A level",
-          "location": "Patan, Lalitpur Nepal",
+          "location": "Mid Baneshwor, Kathmandu, Nepal",
           "institution": "E2A Learning Nepal",
           "year": "Aug, 2024 - Present",
           "description": "Private Tutor"
         },
         {
+          "title": "Computer Science Teacher",
+          "location": "Bhupi Sherchan Marg, Kathmandu 44600",
+          "institution": "St. Paul Steiner School",
+          "year": "Aug, 2024 - May, 2026",
+          "description": "Part time / Grade 9, 10"
+        },
+        {
           "title": "Private Tutor",
           "location": "Kathmandu",
           "year": "Jan, 2018 - Present",
-          "description": "SEE, +2 Science, AS and A level. 20+ Students"
+          "description": "AS and A level, IB, SEE, +2 Science, 30+ Students"
         },
         {
           "title": "School Teacher",
